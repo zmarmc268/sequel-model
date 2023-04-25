@@ -1,1 +1,1 @@
-Add OpenVINO Latency vs Throughput modes Docs page (#9001)
+Reverse IoU threshold for NMS docs descriptions (#9151)
