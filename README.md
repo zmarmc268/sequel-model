@@ -1,1 +1,1 @@
-Download Manager - Extensive enhancements to the downloading functionality of Safari, check the preference page for more detailed info
+FROM pytorch/pytorch:2.2.0-cuda12.1-cudnn8-runtime (#8104)
