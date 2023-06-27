@@ -1,1 +1,1 @@
-Bounding Box to OBB conversion (#7572)
+Fix docker.yaml double-quote version bug (#7452)
