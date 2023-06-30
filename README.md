@@ -1,1 +1,1 @@
-Object Counter improvements (#8648)
+Fix TypeError in check_cfg() (#9245)
