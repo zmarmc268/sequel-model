@@ -1,1 +1,1 @@
-Add YouTube iframe loading=lazy (#8001)
+Fix OpenVINO links (#7930)
