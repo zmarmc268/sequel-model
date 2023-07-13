@@ -1,1 +1,1 @@
-* fix for KeyError: 'epoch'
+Fixed RTDETR GFLOPs bug (#7309)
