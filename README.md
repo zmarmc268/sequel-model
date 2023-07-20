@@ -1,1 +1,1 @@
-Fix heatmaps width-height order bug (#7184)
+Add PaddlePaddle Docs Integrations Page (#8858)
