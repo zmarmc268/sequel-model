@@ -1,1 +1,1 @@
-Fix OBB xywh-angle concatenation bug (#7404)
+Add model.eval() in TensorBoad graph visualization to avoid BN stats changes (#8629)
