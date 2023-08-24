@@ -1,1 +1,1 @@
-ultralytics 8.1.33 fix HUB model checks (#9153)
+Bump codecov/codecov-action from 3 to 4 in /.github/workflows (#8022)
