@@ -1,1 +1,1 @@
-Fix docs H1 tags (#7182)
+Update Twitter icon in Docs (#7711)
