@@ -1,1 +1,1 @@
-Open in Opposite Mode Option - Adds an option to open a long pressed URL in the respective other browsing mode
+Add Non-Maximum Suppression (NMS) inplace flag (#8368)
