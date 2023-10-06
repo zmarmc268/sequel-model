@@ -1,1 +1,1 @@
-* fix for KeyError: 'epoch'
+Update HTTP to HTTPS (#7548)
