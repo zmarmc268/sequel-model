@@ -1,1 +1,1 @@
-Fix solution functions description + integrations/openvino.md cover image update (#8170)
+ultralytics 8.1.18 add cmake for building onnxsim on aarch64 (#8395)
