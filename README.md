@@ -1,1 +1,1 @@
-Update the heatmap module code + docs (#7045)
+Update fraction arg to employ a random selection (#8234)
