@@ -1,1 +1,1 @@
-Rename model_id to model.id (#8447)
+Add Non-Maximum Suppression (NMS) inplace flag (#8368)
