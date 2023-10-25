@@ -1,1 +1,1 @@
-Improve Coral Edge TPU guide (#8160)
+Add estimate_speed(region_color) parameter (#8285)
