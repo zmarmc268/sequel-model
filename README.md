@@ -1,1 +1,1 @@
-Remove unused variables (#8511)
+ultralytics 8.1.26 LoadImagesAndVideos batched inference (#8817)
