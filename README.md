@@ -1,1 +1,1 @@
-Fixed RTDETR GFLOPs bug (#7309)
+Add model.eval() in TensorBoad graph visualization to avoid BN stats changes (#8629)
