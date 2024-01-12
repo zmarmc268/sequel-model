@@ -1,1 +1,1 @@
-fix print val map
+OBB: Fix plot_images (#7592)
