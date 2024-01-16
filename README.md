@@ -1,1 +1,1 @@
-Fixed dataloader CPU bottleneck for small batch sizes (#7659)
+Hold failed upload metrics and upload with next upload metrics (#8513)
