@@ -1,1 +1,1 @@
-OpenVino 2024.0.0 (#8726)
+Add PaddlePaddle Docs Integrations Page (#8858)
