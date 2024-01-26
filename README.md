@@ -1,1 +1,1 @@
-Add HUB-SDK Docs reference section (#7781)
+Bump github/codeql-action from 2 to 3 in /.github/workflows (#7041)
