@@ -1,1 +1,1 @@
-Tracker: clean up GMC (#8003)
+Update pyproject.toml [tool.pytest.ini_options] (#9259)
