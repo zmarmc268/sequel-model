@@ -1,1 +1,1 @@
-docs: update view-results-in-terminal.md (#66)
+ultralytics 8.0.236 dataset semantic & SQL search API (#7136)
