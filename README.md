@@ -1,1 +1,1 @@
-Modify tuner best.pt logic to train first (#8792)
+docs: update view-results-in-terminal.md (#66)
