@@ -1,1 +1,1 @@
-Add missing single-line docstrings (#8362)
+Compare plt.get_backend() in lowercase (#8409)
