@@ -1,1 +1,1 @@
-Update the heatmap module code + docs (#7045)
+Retry once for Docker CI failures (#8164)
