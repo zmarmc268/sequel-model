@@ -1,1 +1,1 @@
-Update Twitter icon in Docs (#7711)
+Avoid creating -hub dir without processing images (#8334)
