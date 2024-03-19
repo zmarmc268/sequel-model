@@ -1,1 +1,1 @@
-ultralytics 8.1.25 fix **kwargs: (dict) warnings (#8815)
+ultralytics 8.1.15 add Python 3.12 compatibility (#8210)
