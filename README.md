@@ -1,1 +1,1 @@
-ultralytics 8.1.26 LoadImagesAndVideos batched inference (#8817)
+Add HeatMap guide in real-world-projects + Code in Solutions Directory (#6796)
