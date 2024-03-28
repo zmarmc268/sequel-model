@@ -1,1 +1,1 @@
-ultralytics 8.1.4 RTDETR TensorBoard graph visualization fix (#7725)
+Add PaddlePaddle Docs Integrations Page (#8858)
