@@ -1,1 +1,1 @@
-Compare plt.get_backend() in lowercase (#8409)
+Fix Multi-GPU resume bug (#7328)
