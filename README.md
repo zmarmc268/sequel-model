@@ -1,1 +1,1 @@
-Improve Coral Edge TPU guide (#8160)
+Add PaddlePaddle Docs Integrations Page (#8858)
