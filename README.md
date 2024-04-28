@@ -1,1 +1,1 @@
-ultralytics 8.1.15 add Python 3.12 compatibility (#8210)
+Bump codecov/codecov-action from 3 to 4 in /.github/workflows (#8022)
