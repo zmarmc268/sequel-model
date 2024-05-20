@@ -1,1 +1,1 @@
-YOLOv8 INT8 TFLite Inference Example (#7317)
+Add Ultralytics HUB Cloud Training banner to Docs (#8656)
