@@ -1,1 +1,1 @@
-Model typehints Docker fix (#8306)
+Add visuals in guides/distance-calculation.md (#7876)
