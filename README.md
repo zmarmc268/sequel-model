@@ -1,1 +1,1 @@
-Optimize function calls to method calls (#8507)
+Add OBB benchmarks to CI (#7777)
