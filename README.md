@@ -1,1 +1,1 @@
-Fix solution functions description + integrations/openvino.md cover image update (#8170)
+Add horizontal Mosaic3 augmentation (#6898)
