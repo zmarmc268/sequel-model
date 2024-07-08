@@ -1,1 +1,1 @@
-Fix TFLite INT8 for OBB (#7989)
+Add dota8.yaml and O tests (#7394)
