@@ -1,1 +1,1 @@
-Update Docs language dropdown height (#6927)
+Add Non-Maximum Suppression (NMS) inplace flag (#8368)
