@@ -1,1 +1,1 @@
-Add TFLite Edge TPU Docs Integrations Page  (#8900)
+Fix docs links (#7096)
