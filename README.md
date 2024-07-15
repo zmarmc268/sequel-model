@@ -1,1 +1,1 @@
-Add Amazon Sagemaker Docs integrations page (#7293)
+ultralytics 8.0.229 add model.embed() method (#7098)
