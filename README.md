@@ -1,1 +1,1 @@
-Adds toggle displaying labels in GUI and verbose log on start (#7804)
+Desktop Mode Switch - A switch inside the tab switcher that can be used to toggle desktop mode on / off globally
