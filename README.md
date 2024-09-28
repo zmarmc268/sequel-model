@@ -1,1 +1,1 @@
-Merge pull request #22 from SkalskiP/patch-1
+Fix an issue with flatbuffer version for Raspberry Pi (#8311)
