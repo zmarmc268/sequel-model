@@ -1,1 +1,1 @@
-Fixed RTDETR GFLOPs bug (#7309)
+Batch inference fixes (#8854)
