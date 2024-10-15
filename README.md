@@ -1,1 +1,1 @@
-Resize angle, count, and stage on keypoint number change (#7598)
+Explorer with LanceDB, Actions and Docs updates (#7487)
