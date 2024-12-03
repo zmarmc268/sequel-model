@@ -1,1 +1,1 @@
-fix resume training
+Pass callbacks to validator (#7320)
