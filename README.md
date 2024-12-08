@@ -1,1 +1,1 @@
-Pass callbacks to validator (#7320)
+New HUB Cloud Training docs page (#8174)
